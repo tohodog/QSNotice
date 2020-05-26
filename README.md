@@ -1,6 +1,7 @@
 # QSNotice
 即时事件通知,可替代eventbus
 ## Copy and paste just do it! 复制粘贴就是干!
+复制java文件到自己项目,改下顶部包名即可使用
 ```
     //可在base基类注册
     public void onCreate(Bundle savedInstanceState) {
